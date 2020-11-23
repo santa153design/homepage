@@ -1,0 +1,54 @@
+.jumbotron{
+  text-align: center;
+} 
+
+.footer {
+  text-align: center;
+}
+
+#title {
+  font-weight: bold;
+}
+
+.row {
+  text-align: center;
+}
+
+.nav-link {
+  color: black;
+}
+
+.display-5 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.2rem;
+}
+
+#header {
+  background-color: #D5DBDB
+}
+
+#about {
+  background-color: #F2F3F4;
+}
+
+#greet {
+  font-family: sans-serif;
+}
+
+.carousel-item {
+  margin-top: 1%;
+}
+
+.jumbotron {
+  background-image: url(images/company.jpg);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.img-fluid {
+	display: inline-block;
+	max-width: 100%;
+	height: auto;
+}
